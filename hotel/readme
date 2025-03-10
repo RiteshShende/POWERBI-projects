@@ -1,0 +1,17 @@
+1. "Is our hotel revenue growing by year?",
+2.  "Should we increase our parking lot size?" and 
+3. "What trends can we see in the data?"
+4.Number of total peoples visiting each hotel(adults +children + babies) by month and year
+5. What is the total revenue generated from the hotels?
+6.How has our hotel revenue trended over the years? Is it growing or declining?
+7.What is the revenue breakdown by hotel type? Are there any differences in revenue growth between the two hotel types?
+8.What is the hotel type’s average daily rate (ADR)?
+9.Calculate the average discount from the hotel chain.
+10.Identify any seasonal trends in hotel revenue, such as peak or low seasons?
+11.calculates the total number of nights stayed by guest.
+12.Count the number of required car parking spaces.
+13.What is the market segment distribution revenue?
+14.Calculate the revenue by customer type.
+15.Calculate the revenue, count of required car parking spaces, and parking percentage for each arrival year and hotel.
+Methodology
+
